@@ -16,6 +16,10 @@ gem 'rack-cors'
 
 gem 'devise'
 
+# Gemfile
+
+gem 'simple_token_authentication', '~> 1.0' # see semver.org
+
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"
 
